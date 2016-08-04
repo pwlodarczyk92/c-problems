@@ -7,3 +7,4 @@ zalecana kolejność przeglądania plików:
 - suma_kwadratow_2.c
 - suma_niepodzielnych.c
 - drukuj_niepodzielne.c
+- dodomu.c
